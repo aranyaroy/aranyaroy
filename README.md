@@ -39,50 +39,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msrofficial&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="msrsakibur's stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrofficial&layout=compact&theme=radical" alt="msrsakibur's most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msrofficial&theme=radical" alt="msrsakibur's streak" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=msrofficial&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="msrsakibur's trophies" />
-</div>
-
----
-
-### 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1] in [msrofficial/my-project]
-2. 🚀 Published release v1.0.0 in [msrofficial/awesome-app]
-3. 💪 Opened PR [#42] in [community/project]
-4. 🎨 Improved UI in [msrofficial/portfolio]
-5. 🐛 Fixed bug in authentication flow
-<!--END_SECTION:activity-->
-
----
-
-### 🎧 Now Playing
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
----
-
-### 📈 Contribution Graph
-
-[![Sakibur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=msrofficial&theme=react-dark)](https://github.com/msrofficial)
-
----
 
 ### 💡 Fun Fact
 
