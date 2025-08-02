@@ -49,7 +49,7 @@ I spend approximately 🕒 30% of my time coding, 🕒 20% sleeping, and 🕒 50
 
 ### 📫 How to reach me
 
-- Website: [msrsakibur.netlify.app](https://msrsakibur.netlify.app)
+- Website: [Aranya Roy](https://aranyaroy255.com)
 - Email: [aranyar255@gmail.com](mailto:aranyar255@gmail.com)
 - Telegram: [@araranya](https://t.me/araranya)
 
