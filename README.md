@@ -39,6 +39,16 @@
 
 ---
 
+- 🔭 I’m currently working on **Brain Machine AI**
+
+- 🌱 I’m currently learning **QA Testing**
+
+- 👯 I’m looking to collaborate on **Digital Marketing & Video Editing**
+
+- 💬 Ask me about **Digital Marketing, Video Editing & Software Testing**
+
+---
+  
 ### 📊 GitHub Stats
 
 <div align="center">
