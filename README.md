@@ -1,32 +1,101 @@
-<h1 align="center">Hi 👋, I'm Aranya Roy</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF729&center=true&vCenter=true&width=435&lines=Aranya+Roy;Full+Stack+Developer;Tech+Enthusiast;Digital+Marketer;Video+Editor;Photographer;Open+Source+Contributor" alt="Typing SVG" />
+</div>
+
+<h1 align="center">Hi 👋, I'm Aranya</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aranyaroy&label=Profile%20views&color=0e75b6&style=flat" alt="aranyaroy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aranyaroy" alt="aranyaroy" /></a> </p>
-
-- 🔭 I’m currently working on **Brain machine ai**
-
-- 🌱 I’m currently learning **QA Testing**
-
-- 👯 I’m looking to collaborate on **Digital Marketing & Video Editing**
-
-- 💬 Ask me about **Digital Marketing, Video Editing & Software Testing**
-
-- 📫 How to reach me **aranyar255@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/aranya.roy.255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aranya.roy.255" height="30" width="40" /></a>
-<a href="https://instagram.com/aranyaroy.255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aranyaroy.255" height="30" width="40" /></a>
-<a href="https://discord.gg/araranya255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="araranya255" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.facebook.com/aranya.roy.255" target="_blank">
+    <img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.facebook.com/aranya.roy.255" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.facebook.com/aranya.roy.255" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/aranya.roy.255" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aranyaroy&show_icons=true&locale=en&layout=compact" alt="aranyaroy" /></p>
+### 🛠️ My Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aranyaroy&show_icons=true&locale=en" alt="aranyaroy" /></p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aranyaroy&" alt="aranyaroy" /></p>
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msrofficial&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="msrsakibur's stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrofficial&layout=compact&theme=radical" alt="msrsakibur's most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msrofficial&theme=radical" alt="msrsakibur's streak" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=msrofficial&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="msrsakibur's trophies" />
+</div>
+
+---
+
+### 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1] in [msrofficial/my-project]
+2. 🚀 Published release v1.0.0 in [msrofficial/awesome-app]
+3. 💪 Opened PR [#42] in [community/project]
+4. 🎨 Improved UI in [msrofficial/portfolio]
+5. 🐛 Fixed bug in authentication flow
+<!--END_SECTION:activity-->
+
+---
+
+### 🎧 Now Playing
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+
+---
+
+### 📈 Contribution Graph
+
+[![Sakibur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=msrofficial&theme=react-dark)](https://github.com/msrofficial)
+
+---
+
+### 💡 Fun Fact
+
+I spend approximately 🕒 30% of my time coding, 🕒 20% sleeping, and 🕒 50% thinking about what to code next!
+
+---
+
+### 📫 How to reach me
+
+- Website: [msrsakibur.netlify.app](https://msrsakibur.netlify.app)
+- Email: [aranyar255@gmail.com](mailto:aranyar255@gmail.com)
+- Telegram: [@araranya](https://t.me/araranya)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=msrofficial&label=Profile%20views&color=0e75b6&style=flat" alt="msrofficial" />
+</p>
