@@ -54,5 +54,5 @@ I spend approximately 🕒 30% of my time coding, 🕒 20% sleeping, and 🕒 50
 - Telegram: [@araranya](https://t.me/araranya)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=msrofficial&label=Profile%20views&color=0e75b6&style=flat" alt="msrofficial" />
+  <img src="https://komarev.com/ghpvc/?username=aranyaroy&label=Profile%20views&color=0e75b6&style=flat" alt="aranyaroy" />
 </p>
