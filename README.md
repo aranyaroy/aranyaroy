@@ -22,6 +22,17 @@
 
 ---
 
+- 🔭 I’m currently working on **Brain Machine AI**
+
+- 🌱 I’m currently learning **QA Testing**
+
+- 👯 I’m looking to collaborate on **Digital Marketing & Video Editing**
+
+- 💬 Ask me about **Digital Marketing, Video Editing & Software Testing**
+
+---
+
+
 ### 🛠️ My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -39,15 +50,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Brain Machine AI**
 
-- 🌱 I’m currently learning **QA Testing**
-
-- 👯 I’m looking to collaborate on **Digital Marketing & Video Editing**
-
-- 💬 Ask me about **Digital Marketing, Video Editing & Software Testing**
-
----
   
 ### 📊 GitHub Stats
 
