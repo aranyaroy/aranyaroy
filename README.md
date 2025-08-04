@@ -105,7 +105,7 @@ I spend approximately 🕒 30% of my time coding, 🕒 20% sleeping, and 🕒 50
 
 ### 📫 How to reach me
 
-- Website: [Aranya Roy](https://aranyaroy.com)
+- Website: [Aranya Roy](https://aranyaroy.netlify.app)
 - Email: [aranyar255@gmail.com](mailto:aranyar255@gmail.com)
 - Telegram: [Aranya Roy](https://t.me/@ARaranya255)
 
