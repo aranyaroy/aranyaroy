@@ -110,7 +110,5 @@ I spend approximately 🕒 30% of my time coding, 🕒 20% sleeping, and 🕒 50
 - Telegram: [Aranya Roy](https://t.me/@ARaranya255)
 
 <p align="center">
- 
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aranyaroy" alt="aranyaroy" /></a> 
-
+  <img src="https://komarev.com/ghpvc/?username=aranyaroy&label=Profile%20views&color=0e75b6&style=flat" alt="aranyaroy" />
 </p>
