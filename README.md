@@ -57,6 +57,11 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aranyaroy&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="aranyaroy's stats" />
+
+</div>  
+<div align="center">
+
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aranyaroy&layout=compact&theme=radical" alt="aranyaroy's most used languages" />
 </div>
 
